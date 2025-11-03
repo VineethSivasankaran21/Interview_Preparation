@@ -1,0 +1,9 @@
+[
+    {
+        "Advanced Concurrency Patterns": "https://github.com/karanpratapsingh/learn-go?tab=readme-ov-file#advanced-concurrency-patterns",
+        "Steps to Practice": [
+            "Step 1 : Revise the Basic Golang Problems given in that website",
+            "Step 2 : Revise the Advanced Golang Problems given in that website"
+        ]
+    }
+]
